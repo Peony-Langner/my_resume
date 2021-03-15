@@ -28,5 +28,5 @@
 |-----------|------------|
 |Microsite  | Created a little microsite      |
 |Website project 1  |   Created a little website as a final project for the orientation course     |
-|Website project 2      | Making a website for a friend. Currently working on it|
+|Website project 2      | Making a website for a friends business. It´s called DekoDosis. Currently working on it|
 
